@@ -1,0 +1,13 @@
+#warning-container {
+  border: 1px solid #e13137;
+  border-radius: 3px;
+  background-color: rgba(225, 49, 55, .30);
+  width: 40%;
+  padding: 2vh;
+  box-shadow: 2px 2px 5px #ececec;
+  margin: 0 auto;
+}
+
+#warning {
+  color: rgba(225, 49, 55, 1.00);
+}
